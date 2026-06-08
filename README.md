@@ -1,116 +1,125 @@
-# Hi there 👋, I'm Rohan sai vinay
+<h1 align="center">
+  Hi 👋, I'm Rohan sai vinay
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Future+Data+Scientist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J6ZnV0bHdkN3l3YWh2aGN3aW1vNTRsMHRlZGR6ejN4dTFvMnJhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/>
+</p>
+
+---
 
 ## 🚀 About Me
 
-🎓 B.Com (Computer Applications) Graduate
+✨ B.Com (Computer Applications) Graduate
 
-📊 Passionate about Data Analytics, Data Science, Machine Learning, and Artificial Intelligence
+🎓 Avinash College of Commerce (2021 - 2024)
 
-💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, and Data Visualization
+📊 Passionate about Data Analytics, Data Science & Machine Learning
 
-🌱 Currently learning Machine Learning, Deep Learning, and Advanced Data Analytics
+🐍 Python Developer
 
-🎯 Aspiring Data Scientist dedicated to transforming data into meaningful insights
+📚 Currently Learning Deep Learning & TensorFlow
+
+🎯 Goal: Become a Data Scientist
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Commerce (Computer Applications)
-🏫 Avinash College of Commerce, Hyderabad  
-📅 2021 – 2024  
-📚 Affiliated with Osmania University
+🏫 **Avinash College of Commerce**
 
-**Relevant Coursework**
-- Data Structures & Algorithms
-- Database Management Systems
-- Statistics & Probability
-- Machine Learning
-- Artificial Intelligence
-- Data Mining
+📖 **Bachelor of Commerce (Computer Applications)**
+
+📅 **2021 - 2024**
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
+### Programming
 
-### Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Excel
-- Power BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Machine Learning
-- Scikit-Learn
-- TensorFlow
-- Regression Models
-- Classification Models
-- Model Evaluation
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-### 📊 Salary Prediction System
-- Built a machine learning model using Linear Regression.
-- Performed data cleaning, feature engineering, and model evaluation.
-- Predicted employee salaries based on multiple factors.
-
-### 🎬 Netflix Data Analysis
-- Conducted Exploratory Data Analysis (EDA) on Netflix datasets.
-- Identified content trends, ratings distribution, and country-wise content patterns.
-- Created insightful visualizations using Python.
-
-### 🖼️ CIFAR-10 Image Classification
-- Developed a CNN model using TensorFlow.
-- Implemented image preprocessing and model evaluation techniques.
-- Achieved effective image classification performance.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌟 Areas of Interest
+## 🔥 GitHub Streak
 
-- Data Science
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-- Data Analytics
-- Business Intelligence
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-- Python for Data Science
-- Machine Learning Fundamentals
-- SQL for Data Analysis
-- Data Analytics with Python
+📊 Salary Prediction using Machine Learning
+
+🎬 Netflix Data Analysis & Visualization
+
+🖼️ CIFAR-10 Image Classification using TensorFlow
+
+📈 Exploratory Data Analysis Projects
+
+---
+
+## 🌱 Currently Learning
+
+🔹 Machine Learning
+
+🔹 Deep Learning
+
+🔹 TensorFlow
+
+🔹 Data Visualization
+
+🔹 Power BI
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: your.rohansaivinay@example.com
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
-
-🌍 Portfolio: https://yourportfolio.com
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-## 💡 Quote
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-> "Without data, you're just another person with an opinion."
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<h3 align="center">
+✨ Turning Data Into Insights ✨
+</h3>
