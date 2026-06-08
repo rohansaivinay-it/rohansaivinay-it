@@ -29,8 +29,6 @@
 - Artificial Intelligence
 - Data Mining
 
-Avinash College of Commerce is a Hyderabad-based commerce institution offering B.Com and related programs. :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 🛠️ Technical Skills
