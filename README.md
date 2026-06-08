@@ -1,39 +1,83 @@
 # Hi there 👋, I'm Vinay Goud
 
 ## 🚀 About Me
-🎓 Aspiring Data Scientist & Machine Learning Enthusiast
 
-📊 Passionate about Data Analysis, Machine Learning, and AI
+🎓 B.Com (Computer Applications) Graduate
 
-💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn, and TensorFlow
+📊 Passionate about Data Analytics, Data Science, Machine Learning, and Artificial Intelligence
 
-🌱 Currently learning Deep Learning and MLOps
+💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, and Data Visualization
 
-🎯 Goal: To build impactful AI-powered solutions and contribute to open-source projects
+🌱 Currently learning Machine Learning, Deep Learning, and Advanced Data Analytics
+
+🎯 Aspiring Data Scientist dedicated to transforming data into meaningful insights
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
+
+### Bachelor of Commerce (Computer Applications)
+🏫 Avinash College of Commerce, Hyderabad  
+📅 2021 – 2024  
+📚 Affiliated with Osmania University
+
+**Relevant Coursework**
+- Data Structures & Algorithms
+- Database Management Systems
+- Statistics & Probability
+- Machine Learning
+- Artificial Intelligence
+- Data Mining
+
+Avinash College of Commerce is a Hyderabad-based commerce institution offering B.Com and related programs. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python
+- SQL
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Excel
+- Power BI
 
-### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### Machine Learning
+- Scikit-Learn
+- TensorFlow
+- Regression Models
+- Classification Models
+- Model Evaluation
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 📂 Projects
+
+### 📊 Salary Prediction System
+- Built a machine learning model using Linear Regression.
+- Performed data cleaning, feature engineering, and model evaluation.
+- Predicted employee salaries based on multiple factors.
+
+### 🎬 Netflix Data Analysis
+- Conducted Exploratory Data Analysis (EDA) on Netflix datasets.
+- Identified content trends, ratings distribution, and country-wise content patterns.
+- Created insightful visualizations using Python.
+
+### 🖼️ CIFAR-10 Image Classification
+- Developed a CNN model using TensorFlow.
+- Implemented image preprocessing and model evaluation techniques.
+- Achieved effective image classification performance.
 
 ---
 
@@ -43,45 +87,42 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Streak Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Areas of Interest
 
-### 📊 Salary Prediction Model
-- Built a machine learning model to predict employee salaries.
-- Used Linear Regression and feature engineering techniques.
-- Improved model performance through preprocessing and EDA.
+- Data Science
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Analytics
+- Business Intelligence
 
-### 🎬 Netflix Data Analysis
-- Performed exploratory data analysis on Netflix dataset.
-- Identified content trends, genres, and country-wise distributions.
-- Created visual dashboards using Python libraries.
+---
 
-### 🖼️ CIFAR-10 Image Classification
-- Developed a CNN model using TensorFlow.
-- Trained and evaluated image classification performance.
-- Achieved strong accuracy through data augmentation.
+## 📜 Certifications
+
+- Python for Data Science
+- Machine Learning Fundamentals
+- SQL for Data Analysis
+- Data Analytics with Python
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+📧 Email: your.email@example.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+💼 LinkedIn: https://linkedin.com/in/your-profile
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+🌍 Portfolio: https://yourportfolio.com
 
 ---
 
-### 💡 Quote
+## 💡 Quote
 
-> "Data is a precious thing and will last longer than the systems themselves."
+> "Without data, you're just another person with an opinion."
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
