@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Rohan sai vinay
+
+## 🚀 About Me
+🎓 Aspiring Data Scientist & Machine Learning Enthusiast
+
+📊 Passionate about Data Analysis, Machine Learning, and AI
+
+💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn, and TensorFlow
+
 
 <!--
 **rohansaivinay-it/rohansaivinay-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
